@@ -1,6 +1,6 @@
 # CPSC350_FA21_ASSIGNMENT5_PELTON-SOPHIE
 
-1.) Sophie Pelton -- 2370862 -- spelton@chapman.edu -- CPSC350-01 -- Assignment 4
+1.) Sophie Pelton -- 2370862 -- spelton@chapman.edu -- CPSC350-01 -- Assignment 5
 
 2.) FileProcessor.h -- FileProcessor.cpp -- main.cpp -- Makefile -- REAME.md -- DoublyLinkedList.h -- GenQueue.h -- MyList.h -- Simulation.cpp -- Simulation.h -- Student.cpp -- Student.h -- Window.h -- Window.cpp
 
